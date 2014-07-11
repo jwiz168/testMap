@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mySpot</string>
+    <string name="dummy_button">Go to Map</string>
+    <string name="dummy_content">mySpot</string>
+    <string name="labastau">Ciao</string><string name="spotme">Locate Me</string>
+    
+
+</resources>
